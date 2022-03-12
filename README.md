@@ -8,7 +8,7 @@
   Figure 1. A deep topology that can induce a neural network Gaussian process by increasing depth.
 </p>
 
-This respository includes implementations of neural network Gaussian process (NNGP) kernel induced by depth proposed in *Neural Network Gaussian Processes by Increasing Depth*. In this paper, we show that increasing depth while the width is bounded can also result in a Gaussian process kernel. Our code inherits the implementation of https://github.com/brain-research/nngp. 
+This respository includes implementations of neural network Gaussian process kernel induced by depth proposed in *Neural Network Gaussian Processes by Increasing Depth* (https://arxiv.org/pdf/2108.12862.pdf). In this paper, we show that increasing depth while the width is bounded can also result in a Gaussian process. Then, such a neural network Gaussian process (NNGP) can be used in kernel ridge regression, and the associated kernel is called NNGP kernel. Our code inherits the implementation of https://github.com/brain-research/nngp. 
 
 
 
@@ -19,7 +19,6 @@ This respository includes implementations of neural network Gaussian process (NN
 <p align="center">
   Figure 2. The fitting curves of the NNGP$^{(d)}$ and NNGP$^{(w)}$ kernels for a sine function. NNGP$^{(d)}$ refers to the NNGP kernel by depth, while NNGP$^{(w)}$ refers to the NNGP kernel by width.
 </p>
-
 
 
 ## Datasets
