@@ -1,15 +1,26 @@
 # NNGP_by_Depth
 | [ArXiv](https://arxiv.org/pdf/2108.12862.pdf) |
 
+<p align="center">
+  <img width="500" src="https://github.com/FengleiFan/NNGP_by_Depth/blob/main/NetworkStructure.png">
+</p>
+<p align="center">
+  Figure 1. A deep topology that can induce a neural network Gaussian process by increasing depth.
+</p>
+
 This respository includes implementations of neural network Gaussian process (NNGP) kernel induced by depth proposed in *Neural Network Gaussian Processes by Increasing Depth*. In this paper, we show that increasing depth while the width is bounded can also result in a Gaussian process kernel. Our code inherits the implementation of https://github.com/brain-research/nngp. 
 
+
+
 <p align="center">
-  <img width="320" src="https://github.com/FengleiFan/NNGP_by_Depth/blob/main/Fitting.jpg">
+  <img width="500" src="https://github.com/FengleiFan/NNGP_by_Depth/blob/main/Fitting.jpg">
 </p>
 
 <p align="center">
-  Figure 1. The fitting curves of the NNGP$^{(d)}$ and NNGP$^{(w)}$ kernels for a sine function. NNGP$^{(d)}$ refers to the NNGP kernel by depth, while NNGP$^{(w)}$ refers to the NNGP kernel by width.
+  Figure 2. The fitting curves of the NNGP$^{(d)}$ and NNGP$^{(w)}$ kernels for a sine function. NNGP$^{(d)}$ refers to the NNGP kernel by depth, while NNGP$^{(w)}$ refers to the NNGP kernel by width.
 </p>
+
+
 
 ## Datasets
 FMNIST, CIFAR-10
