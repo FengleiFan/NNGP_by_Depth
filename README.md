@@ -4,7 +4,7 @@
 This respository includes implementations of neural network Gaussian process (NNGP) kernel induced by depth proposed in *Neural Network Gaussian Processes by Increasing Depth*. In this paper, we show that increasing depth while the width is bounded can also result in a Gaussian process kernel. Our code inherits the implementation of https://github.com/brain-research/nngp. 
 
 <p align="center">
-  <img width="320" src="https://github.com/FengleiFan/ReLinear/blob/main/Figure_IWL.png">
+  <img width="320" src="https://github.com/FengleiFan/NNGP_by_Depth/blob/main/Fitting.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ FMNIST, CIFAR-10
 TensorFlow 1.13.1, Python 3.7.11, scikit-learn 0.23.2 
 
 ## Folders 
-**NNGP_deep**: this directory includes the implementation of the NNGP$^{(d)}$, where we provide two programms that correspond to \hbar=1 and \hbar=2. <br/>
+**NNGP_deep**: this directory includes the implementation of the NNGP$^{(d)}$, where we provide two programms that correspond to \hbar=1 and \hbar=2, respectively. <br/>
 **NNGP_wide**: this directory includes the implementation of the NNGP$^{(w)}$. <br/>
 
 
