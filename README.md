@@ -1,4 +1,4 @@
-# NNGP_by_Depth
+# Neural Network Gaussian Processes by Increasing Depth
 | [ArXiv](https://arxiv.org/pdf/2108.12862.pdf) |
 
 <p align="center">
