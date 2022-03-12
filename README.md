@@ -33,7 +33,7 @@ TensorFlow 1.13.1, Python 3.7.11, scikit-learn 0.23.2
 
 
 
-## Running Experiments
+## Usage
 
 Please first go to each directory. Each directory consists of several scripts.  
 
