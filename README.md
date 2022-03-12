@@ -2,7 +2,7 @@
 | [ArXiv](https://arxiv.org/pdf/2108.12862.pdf) |
 
 <p align="center">
-  <img width="500" src="https://github.com/FengleiFan/NNGP_by_Depth/blob/main/NetworkStructure.png">
+  <img width="800" src="https://github.com/FengleiFan/NNGP_by_Depth/blob/main/NetworkStructure.png">
 </p>
 <p align="center">
   Figure 1. A deep topology that can induce a neural network Gaussian process by increasing depth.
